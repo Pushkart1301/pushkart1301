@@ -31,15 +31,6 @@ I’m passionate about building scalable applications, solving real-world proble
 
 ---
 
-### 📌 Featured Projects
-- 🎯 **[Student Vacation Planner (SVP)](https://github.com/yourusername/svp)**  
-   AI-powered vacation planner that balances academics & attendance tracking.  
-
-- ✋ **[AI Rock-Paper-Scissors](https://github.com/yourusername/rps-ai)**  
-   Computer Vision + AI opponent using MediaPipe & Python.  
-
----
-
 ### 🏆 LeetCode Profile
 ![LeetCode Stats](https://leetcard.jacoblin.cool/Pushkar_Toshniwal?theme=dark&font=Baloo%202&ext=heatmap)
 --------
