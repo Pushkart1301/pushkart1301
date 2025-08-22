@@ -8,7 +8,7 @@ I’m passionate about building scalable applications, solving real-world proble
 ---
 
 ### 🚀 About Me
-- 🎓 B.Tech Student exploring software & AI 
+- 🎓 🎓 Persuing **B.Tech in Artificial Intelligence & Machine Learning (AIML)** from **Mumbai University**  
 - 🔭 Currently building: **AI Vacatiion Planner**  
 - 🌱 Learning: **Next.js, AI-powered applications**  
 - ⚡ Interests: Backend systems, AI/ML, Computer Vision, and Full-Stack Development  
